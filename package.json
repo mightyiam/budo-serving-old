@@ -1,0 +1,15 @@
+{
+  "name": "budo-serving-old",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "budo": "budo index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shahar Or <mightyiampresence@gmail.com> (mightyiam)",
+  "license": "ISC",
+  "dependencies": {
+    "budo": "^9.2.1"
+  }
+}
